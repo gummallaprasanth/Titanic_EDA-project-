@@ -17,7 +17,7 @@ Seaborn: For statistical data visualization and making plots with more advanced 
 
 
 
-## steps involving in the  Process (EDA)
+## Steps involving in the  Process (EDA)
 
 *  Importing data from the kaggle(downloading)
 * converting the data from csv file to DataFrame with Pandas Library
